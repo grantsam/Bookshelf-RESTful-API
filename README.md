@@ -30,11 +30,12 @@ Follow these steps to set up and run the Bookshelf RESTful API locally on your m
 
 ### Steps
 
-1. **Clone the repository**:
+**Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/bookshelf-RESTful-API.git
    cd bookshelf-RESTful-API
    npm install
+```
 The server should now be running on http://localhost:5000.
 
 ## Usage
